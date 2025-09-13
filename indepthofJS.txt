@@ -1,0 +1,37 @@
+**> JavaScript is Highly abstract programming Language
+
+**> Shows only the things that is need avoding showing the unnecessary things
+
+**> Hide Details and Showing the functionality only
+
+**> Javascript collect garbage autometically 
+
+**> JIT coompiled Programming language 
+
+***> Multi peradiagram
+---->Procedural Prrogramming
+---->Functional Programming
+---->Object Oriented programming
+
+**> Prototype based
+
+**> Dymaically Typed 
+
+**> v8 Engine that is Chromium Based
+
+**> Global Execution Context(GEC)
+
+**> Whenever a function is called therefore it goes to function Execution context(FEC)
+
+**> Execution Phase
+----> Executes the code line by line
+----> Executes the function called
+
+**> Call Stack
+
+
+**> Single Threaded
+
+**> Synchronous
+
+**> Asynchronous
